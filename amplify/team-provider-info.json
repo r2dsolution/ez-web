@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ezweb-staging-124047-authRole",
+      "UnauthRoleArn": "arn:aws:iam::902033226239:role/amplify-ezweb-staging-124047-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::902033226239:role/amplify-ezweb-staging-124047-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-ezweb-staging-124047-deployment",
+      "UnauthRoleName": "amplify-ezweb-staging-124047-unauthRole",
+      "StackName": "amplify-ezweb-staging-124047",
+      "StackId": "arn:aws:cloudformation:us-west-2:902033226239:stack/amplify-ezweb-staging-124047/43eacb10-d4a4-11ee-b05a-0ab434d0e25d",
+      "AmplifyAppId": "d18vvvm3ei02hw"
+    }
+  }
+}
